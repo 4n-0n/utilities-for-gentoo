@@ -1,0 +1,6 @@
+alias viconf="vi /etc/portage/make.conf"
+alias ll="ls -l --color"
+alias la="ls -la --color"
+alias l="ls --color"
+alias pkg="quickpkg --include-config y --include-unmodified-config y \"*/*\""
+alias root="sudo su -"
