@@ -1,1 +1,4 @@
-s
+source ./aliases.sh
+
+conf="/etc/portage/make.conf"
+export conf
