@@ -1,3 +1,4 @@
+#!/bin/bash
 alias viconf="vi /etc/portage/make.conf"
 alias ll="ls -l --color"
 alias la="ls -la --color"
