@@ -1,3 +1,5 @@
+[snip]
+
 source /etc/aliases
 
 conf="/etc/portage/make.conf"
